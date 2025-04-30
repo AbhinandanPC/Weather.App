@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-
+API ID (654e6864bd1746e0aa7161430251604)
 // --- Mock Weather Data ---
 // In a real app, you'd fetch this from a weather API (e.g., OpenWeatherMap, WeatherAPI)
 const mockWeatherData = {
